@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Config (hassas veriler)
+settings.json
+config/settings.json
+config/site-settings.json
+
+# Runtime data (sunucuya özel, repoda olmamalı)
+data/bans.json
+data/blips.json
+data/stashs.json
+
+# SaaS panel kodu (bu repoda yok)
+src/
+
+# FiveM cache / geçici
+*.cache
+.item-image-cache/
+
+# OS
+.DS_Store
+Thumbs.db

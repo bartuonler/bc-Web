@@ -1,0 +1,11 @@
+{
+  "name": "bc-web-socket",
+  "version": "1.0.0",
+  "description": "BC-Web WebSocket Istemcisi",
+  "main": "server/socket.js",
+  "fivemIgnore": true,
+  "dependencies": {
+    "socket.io-client": "^4.7.5",
+    "mysql2": "^3.11.0"
+  }
+}
